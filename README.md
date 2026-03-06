@@ -24,16 +24,6 @@ This project demonstrates efficient prefix search, API design, and practical use
 - **Trie Data Structure**
 - JSON APIs
 
----
-
-## Project Structure
-
-
-autocomplete-service
-│
-├── autocomplete_service.py # Main service implementation
-├── README.md # Project documentation
-
 
 ---
 
